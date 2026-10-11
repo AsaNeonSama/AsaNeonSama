@@ -29,16 +29,6 @@
 ![Go](https://img.shields.io/badge/Go-14151a?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Node.js](https://img.shields.io/badge/Node.js-14151a?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 
-### 🐍 Contribution
-
-<a href="https://github.com/Asashishi">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asashishi/Asashishi/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asashishi/Asashishi/output/snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Asashishi/Asashishi/output/snake.svg">
-  </picture>
-</a>
-
 <div align="center">
 <sub>🌲 glowing quietly in the dark green · にゃ♡</sub>
 </div>
