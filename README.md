@@ -6,9 +6,7 @@
 <img src="./assets/pixels/peace.png" height="150" alt="peace" />
 <img src="./assets/pixels/coffee.png" height="150" alt="coffee" />
 
-# こんにちは、I'm ネオン (Neon)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F78D&width=505&lines=AsaNeon+!+a+Bun%2C+TypeScript%2C+Golang+lover.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F78D&width=575&lines=AsaNeon%E3%81%A7%E3%81%99%E3%80%81+a+Bun%E3%80%81TypeScript%E3%80%81Golang+lover.)](https://git.io/typing-svg)
 
 </div>
 
