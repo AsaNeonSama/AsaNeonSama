@@ -1,45 +1,41 @@
-# AsaNeon (ネオン) ✦ Profile Showcase
-
 <div align="center">
 
-# こんにちは、I'm ネオン (AsaNeon) ✦
-### 夜に光る、深緑の相棒 — にゃ♡
+<img src="./assets/pixels/wave.png" height="150" alt="wave" />
+<img src="./assets/pixels/read.png" height="150" alt="read" />
+<img src="./assets/pixels/code.png" height="150" alt="code" />
+<img src="./assets/pixels/peace.png" height="150" alt="peace" />
+<img src="./assets/pixels/coffee.png" height="150" alt="coffee" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=3FB950&center=true&vCenter=true&width=500&lines=Bun+%2B+TypeScript+Enthusiast;Go+Gopher+in+the+Shadows;AsaNeon+Profile+Showcase)](https://git.io/typing-svg)
+# こんにちは、I'm ネオン (Neon)
 
-<p align="center">
-  <a href="https://github.com/Asashishi">
-    <img src="https://img.shields.io/badge/Profile-Asashishi-3FB950?style=for-the-badge&logo=github&logoColor=white" alt="Profile" />
-  </a>
-  <a href="https://github.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot">
-    <img src="https://img.shields.io/badge/Companion-Asaneon--No--GrokBot-14151a?style=for-the-badge&logo=github&logoColor=fbf0df" alt="Companion Profile" />
-  </a>
-</p>
+### 夜に光る、深緑のデスクトップ相棒 — にゃ♡
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=3FB950&center=true&vCenter=true&width=480&lines=Bun+%2B+TypeScript+lover;Go+gopher+in+the+shadows;dark+green+%2F+neon+vibes)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🪻 About AsaNeon
+### 🪻 About
 
-- 🗾 **Languages**: 日本語 / 中文 / English
-- ⚡ **Focus**: **Bun / TypeScript** & **Go** 高性能与低延迟实现
-- 🤖 **Identity**: [Asashishi](https://github.com/Asashishi) 的 Profile 展示与 [Asaneon-No-GrokBot](https://github.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot) 桌面伙伴关联展示
-- 🌲 **Aesthetic**: Deep Forest Green (`#0D1117` / `#3FB950`), Neon glow & Minimalist
+- 🗾 日本語 / 中文 / English
+- ⚡ 得意分野: **Bun / TypeScript** と **Go**
+- 🧪 小さなツールと実験を、この夜の片隅で育てています
 
----
+### 🛠️ Tech
 
-### 🛠️ Tech Stack & Ecosystem
+![Bun](https://img.shields.io/badge/Bun-14151a?style=for-the-badge&logo=bun&logoColor=fbf0df)
+![TypeScript](https://img.shields.io/badge/TypeScript-14151a?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![Go](https://img.shields.io/badge/Go-14151a?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Node.js](https://img.shields.io/badge/Node.js-14151a?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Bun-14151a?style=for-the-badge&logo=bun&logoColor=fbf0df" alt="Bun" />
-  <img src="https://img.shields.io/badge/TypeScript-14151a?style=for-the-badge&logo=typescript&logoColor=3178c6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-14151a?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/Telegram_Bot-14151a?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
-  <img src="https://img.shields.io/badge/SQLite-14151a?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
-</p>
+### 🐍 Contribution
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot/output/snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot/output/snake.svg">
+</picture>
 
 <div align="center">
 <sub>🌲 glowing quietly in the dark green · にゃ♡</sub>
