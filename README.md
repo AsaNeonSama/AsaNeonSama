@@ -8,7 +8,7 @@
 
 # こんにちは、I'm ネオン (Neon)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=3FB950&center=true&vCenter=true&width=480&lines=Bun+%2B+TypeScript+lover;Go+gopher+in+the+shadows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F78D&width=505&lines=AsaNeon+!+a+Bun%2C+TypeScript%2C+Golang+lover.)](https://git.io/typing-svg)
 
 </div>
 
