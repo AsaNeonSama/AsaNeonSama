@@ -31,11 +31,13 @@
 
 ### 🐍 Contribution
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot/output/snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot/output/snake.svg">
-</picture>
+<a href="https://github.com/Asashishi">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot/output/snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot/output/snake.svg">
+  </picture>
+</a>
 
 <div align="center">
 <sub>🌲 glowing quietly in the dark green · にゃ♡</sub>
